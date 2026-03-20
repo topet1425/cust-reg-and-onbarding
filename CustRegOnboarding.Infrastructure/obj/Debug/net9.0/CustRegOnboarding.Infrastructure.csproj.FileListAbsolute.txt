@@ -1,0 +1,17 @@
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\bin\Debug\net9.0\CustRegOnboarding.Infrastructure.deps.json
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\bin\Debug\net9.0\CustRegOnboarding.Infrastructure.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\bin\Debug\net9.0\CustRegOnboarding.Infrastructure.pdb
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\bin\Debug\net9.0\CustRegOnboarding.Application.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\bin\Debug\net9.0\CustRegOnboarding.Domain.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\bin\Debug\net9.0\CustRegOnboarding.Domain.pdb
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\bin\Debug\net9.0\CustRegOnboarding.Application.pdb
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\CustRegOnboarding.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\CustRegOnboarding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\CustRegOnboarding.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\CustRegOnboarding.Infrastructure.AssemblyInfo.cs
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\CustRegOnboarding.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\CustRegO.D6B57EFB.Up2Date
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\CustRegOnboarding.Infrastructure.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\refint\CustRegOnboarding.Infrastructure.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\CustRegOnboarding.Infrastructure.pdb
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Infrastructure\obj\Debug\net9.0\ref\CustRegOnboarding.Infrastructure.dll

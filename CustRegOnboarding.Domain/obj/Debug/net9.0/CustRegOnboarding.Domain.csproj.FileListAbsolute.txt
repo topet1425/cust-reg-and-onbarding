@@ -1,0 +1,11 @@
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\bin\Debug\net9.0\CustRegOnboarding.Domain.deps.json
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\bin\Debug\net9.0\CustRegOnboarding.Domain.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\bin\Debug\net9.0\CustRegOnboarding.Domain.pdb
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\obj\Debug\net9.0\CustRegOnboarding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\obj\Debug\net9.0\CustRegOnboarding.Domain.AssemblyInfoInputs.cache
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\obj\Debug\net9.0\CustRegOnboarding.Domain.AssemblyInfo.cs
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\obj\Debug\net9.0\CustRegOnboarding.Domain.csproj.CoreCompileInputs.cache
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\obj\Debug\net9.0\CustRegOnboarding.Domain.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\obj\Debug\net9.0\refint\CustRegOnboarding.Domain.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\obj\Debug\net9.0\CustRegOnboarding.Domain.pdb
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustRegOnboarding.Domain\obj\Debug\net9.0\ref\CustRegOnboarding.Domain.dll

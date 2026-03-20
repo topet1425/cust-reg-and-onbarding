@@ -1,0 +1,15 @@
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\bin\Debug\net9.0\CustRegOnboarding.Application.deps.json
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\bin\Debug\net9.0\CustRegOnboarding.Application.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\bin\Debug\net9.0\CustRegOnboarding.Application.pdb
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\bin\Debug\net9.0\CustRegOnboarding.Domain.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\bin\Debug\net9.0\CustRegOnboarding.Domain.pdb
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\CustRegOnboarding.Application.csproj.AssemblyReference.cache
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\CustRegOnboarding.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\CustRegOnboarding.Application.AssemblyInfoInputs.cache
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\CustRegOnboarding.Application.AssemblyInfo.cs
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\CustRegOnboarding.Application.csproj.CoreCompileInputs.cache
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\CustRegO.85A05F91.Up2Date
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\CustRegOnboarding.Application.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\refint\CustRegOnboarding.Application.dll
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\CustRegOnboarding.Application.pdb
+C:\Users\topet\Desktop\Accenture\CustRegOnboarding\CustrRegOnboarding.Application\obj\Debug\net9.0\ref\CustRegOnboarding.Application.dll

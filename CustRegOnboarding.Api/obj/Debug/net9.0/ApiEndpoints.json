@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CustRegOnboarding.Controllers.CustomersController",
+    "Method": "Create",
+    "RelativePath": "api/customers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "CustRegOnboarding.Domain.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustRegOnboarding.Controllers.CustomersController",
+    "Method": "GetAll",
+    "RelativePath": "api/customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

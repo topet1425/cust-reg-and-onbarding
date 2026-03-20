@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D745B6B-AD71-43FB-9E7A-463F6DA72795}|CustRegOnboarding.Api.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custregonboarding.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D745B6B-AD71-43FB-9E7A-463F6DA72795}|CustRegOnboarding.Api.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D745B6B-AD71-43FB-9E7A-463F6DA72795}|CustRegOnboarding.Api.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custregonboarding.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D745B6B-AD71-43FB-9E7A-463F6DA72795}|CustRegOnboarding.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D3983B-E8A3-464F-B4CB-D3E7C755895D}|..\\CustrRegOnboarding.Application\\CustRegOnboarding.Application.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custrregonboarding.application\\custregonboarding.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F97B54-AD62-42DE-8EA9-74648BF6BB22}|..\\CustRegOnboarding.Test\\CustRegOnboarding.Test.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custregonboarding.test\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F97B54-AD62-42DE-8EA9-74648BF6BB22}|..\\CustRegOnboarding.Test\\CustRegOnboarding.Test.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custregonboarding.test\\custregonboarding.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E1FDF-183C-4FA8-AE68-D8E01E2DCA29}|..\\CustRegOnboarding.Infrastructure\\CustRegOnboarding.Infrastructure.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custregonboarding.infrastructure\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E1FDF-183C-4FA8-AE68-D8E01E2DCA29}|..\\CustRegOnboarding.Infrastructure\\CustRegOnboarding.Infrastructure.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custregonboarding.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D3983B-E8A3-464F-B4CB-D3E7C755895D}|..\\CustrRegOnboarding.Application\\CustRegOnboarding.Application.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custrregonboarding.application\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D3983B-E8A3-464F-B4CB-D3E7C755895D}|..\\CustrRegOnboarding.Application\\CustRegOnboarding.Application.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custrregonboarding.application\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E1FDF-183C-4FA8-AE68-D8E01E2DCA29}|..\\CustRegOnboarding.Infrastructure\\CustRegOnboarding.Infrastructure.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custregonboarding.infrastructure\\custregonboarding.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB645D5-F3D3-4AB3-AECA-40535B7E7F61}|..\\CustRegOnboarding.Domain\\CustRegOnboarding.Domain.csproj|c:\\users\\topet\\desktop\\accenture\\custregonboarding\\custregonboarding.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustrRegOnboarding.Application\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\CustrRegOnboarding.Application\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustrRegOnboarding.Application\\CustomerService.cs",
+              "RelativeToolTip": "..\\CustrRegOnboarding.Application\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:12:03.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustrRegOnboarding.Application\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\CustrRegOnboarding.Application\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustrRegOnboarding.Application\\ICustomerRepository.cs",
+              "RelativeToolTip": "..\\CustrRegOnboarding.Application\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:11:05.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CustRegOnboarding.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "..\\CustRegOnboarding.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:07:44.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Test\\CustomerServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\CustRegOnboarding.Test\\CustomerServiceTests.cs",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Test\\CustomerServiceTests.cs",
+              "RelativeToolTip": "..\\CustRegOnboarding.Test\\CustomerServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:08:11.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Api\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Api\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:25:07.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustRegOnboarding.Test",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Test\\CustRegOnboarding.Test.csproj",
+              "RelativeDocumentMoniker": "..\\CustRegOnboarding.Test\\CustRegOnboarding.Test.csproj",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Test\\CustRegOnboarding.Test.csproj",
+              "RelativeToolTip": "..\\CustRegOnboarding.Test\\CustRegOnboarding.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T17:46:23.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:24:57.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustRegOnboarding.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustrRegOnboarding.Application\\CustRegOnboarding.Application.csproj",
+              "RelativeDocumentMoniker": "..\\CustrRegOnboarding.Application\\CustRegOnboarding.Application.csproj",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustrRegOnboarding.Application\\CustRegOnboarding.Application.csproj",
+              "RelativeToolTip": "..\\CustrRegOnboarding.Application\\CustRegOnboarding.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T16:08:20.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustRegOnboarding.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Infrastructure\\CustRegOnboarding.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\CustRegOnboarding.Infrastructure\\CustRegOnboarding.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Infrastructure\\CustRegOnboarding.Infrastructure.csproj",
+              "RelativeToolTip": "..\\CustRegOnboarding.Infrastructure\\CustRegOnboarding.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T16:18:14.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Infrastructure\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\CustRegOnboarding.Infrastructure\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Infrastructure\\CustomerRepository.cs",
+              "RelativeToolTip": "..\\CustRegOnboarding.Infrastructure\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:23:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\CustRegOnboarding.Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\topet\\Desktop\\Accenture\\CustRegOnboarding\\CustRegOnboarding.Domain\\Customer.cs",
+              "RelativeToolTip": "..\\CustRegOnboarding.Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:07:14.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

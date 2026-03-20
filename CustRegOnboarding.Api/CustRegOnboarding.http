@@ -1,0 +1,6 @@
+@CustRegOnboarding_HostAddress = http://localhost:5082
+
+GET {{CustRegOnboarding_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
